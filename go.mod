@@ -11,7 +11,7 @@ require (
 	github.com/mfridman/tparse v0.7.4
 	github.com/stretchr/testify v1.5.1
 	golang.org/x/lint v0.0.0-20200302205851-738671d3881b
-	golang.org/x/text v0.3.2
+	golang.org/x/text v0.3.3
 	gopkg.in/yaml.v2 v2.3.0 // indirect
 	howett.net/plist v0.0.0-20200419221736-3b63eb3a43b5
 )
